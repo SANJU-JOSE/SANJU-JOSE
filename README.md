@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDev, data analysis and ML<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with dashboards<br>🌱 I’m currently learning ORACLE OCE Generative AI<br>
+🔭 I’m currently working on WebDev, data analysis and ML<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with dashboards<br>🌱 I’m currently learning ORACLE OCI Generative AI<br>
 
 
 # 💻 Tech Stack:
